@@ -33,3 +33,12 @@ A collection of example essays and application advice for the National Science F
 
 ## Videos
 - [The NSF GRFP Webisode](https://www.youtube.com/playlist?list=PL0eM_0CI4GB-vDcwBfewjU9PlaMry4wo3)
+- [NSF GRFP Info Session: Understanding the Review Criteria](https://www.youtube.com/watch?v=iGdNrggMILs)
+- [NSF GRFP Workshop](https://www.youtube.com/watch?v=ehuR9VIU5Yg)
+- [NSF GRFP: Writing the Research Statement](https://www.youtube.com/watch?v=oVmQSRl31iA)
+- [Writing for Graduate Fellowships in STEM Fields](https://www.youtube.com/watch?v=Bria1wRgAec)
+- [How to Write the NSF GRFP Personal Statement | Detailed Example & Tips | Graduate School Fellowships](https://www.youtube.com/watch?v=3CLsK6FUvRQ)
+- [NSF Graduate Fellowship: Overview for Beginners](https://www.youtube.com/watch?v=VnInviuQ8b0)
+- [NSF GRFP: Writing the Personal Statement](https://www.youtube.com/watch?v=k6VLCTCaubg)
+- [NSF GRFP How To Apply | Application Tips | Graduate School Funding](https://www.youtube.com/watch?v=Tr3X1TgS7BQ)
+- [Detailed Guide to tackle the NSF-GRFP Application (2021)](https://www.youtube.com/watch?v=ygoKTJfLGUY)
