@@ -26,6 +26,7 @@ A collection of example essays and application advice for the National Science F
 - [Applying to the NSF Graduate Research Fellowship (GRFP)](https://www.simonpcouch.com/blog/2021-08-02-apply-to-nsf-grfp/)
 - [Caltech NSF GRFP Resources](https://rosen.caltech.edu/resources/NSF%20GRFP%20resources.pdf)
 - [DJ Strouse](https://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships)
+- [Claus Wilke - How to write an NSF GRFP research plan](https://blog.genesmindsmachines.com/p/how-to-write-an-nsf-grfp-research)
 
 ## Videos
 - [The NSF GRFP Webisode](https://www.youtube.com/playlist?list=PL0eM_0CI4GB-vDcwBfewjU9PlaMry4wo3)
