@@ -27,6 +27,8 @@ A collection of example essays and application advice for the National Science F
 - [Caltech NSF GRFP Resources](https://rosen.caltech.edu/resources/NSF%20GRFP%20resources.pdf)
 - [DJ Strouse](https://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships)
 - [Claus Wilke - How to write an NSF GRFP research plan](https://blog.genesmindsmachines.com/p/how-to-write-an-nsf-grfp-research)
+- [NSF GRFP Personal Statement : EECS Communication Lab](https://mitcommlab.mit.edu/eecs/commkit/nsf-personal-statement/)
+- [NSF GRFP Personal Statement : EECS Communication Lab](https://mitcommlab.mit.edu/eecs/commkit/nsf-research-proposal/)
 
 ## Videos
 - [The NSF GRFP Webisode](https://www.youtube.com/playlist?list=PL0eM_0CI4GB-vDcwBfewjU9PlaMry4wo3)
