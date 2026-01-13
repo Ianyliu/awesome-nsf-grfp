@@ -41,3 +41,4 @@ A collection of example essays and application advice for the National Science F
 - [NSF GRFP: Writing the Personal Statement](https://www.youtube.com/watch?v=k6VLCTCaubg)
 - [NSF GRFP How To Apply | Application Tips | Graduate School Funding](https://www.youtube.com/watch?v=Tr3X1TgS7BQ)
 - [Detailed Guide to tackle the NSF-GRFP Application (2021)](https://www.youtube.com/watch?v=ygoKTJfLGUY)
+- [guide to the NSF GRFP application](https://www.youtube.com/watch?v=aJNi2a7L_8Y)
