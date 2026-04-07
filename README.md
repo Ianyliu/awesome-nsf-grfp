@@ -29,6 +29,9 @@ A collection of example essays and application advice for the National Science F
 - [Claus Wilke - How to write an NSF GRFP research plan](https://blog.genesmindsmachines.com/p/how-to-write-an-nsf-grfp-research)
 - [NSF GRFP Personal Statement : EECS Communication Lab](https://mitcommlab.mit.edu/eecs/commkit/nsf-personal-statement/)
 - [NSF GRFP Personal Statement : EECS Communication Lab](https://mitcommlab.mit.edu/eecs/commkit/nsf-research-proposal/)
+- [5 Structural Mistakes I See in Almost Every NSF GRFP Draft (and How to Fix Them)](https://www.yaelcourtney.com/resources-and-guides/5-structural-mistakes-i-see-in-almost-every-nsf-grfp-draft-and-how-to-fix-them)
+- [How to Write a Strong NSF GRFP Personal Statement: Advice From a Coach Who's Read Hundreds of Drafts](https://www.yaelcourtney.com/resources-and-guides/how-to-write-a-strong-nsf-grfp-personal-statement-advice-from-a-coach-whos-read-hundreds-of-drafts)
+- [The NSF GRFP, Explained: What It Is, Who Qualifies, and What Changed in 2026](https://www.yaelcourtney.com/resources-and-guides/the-nsf-grfp-explained-what-it-is-who-qualifies-and-what-changed-in-2026)
 
 ## Videos
 - [The NSF GRFP Webisode](https://www.youtube.com/playlist?list=PL0eM_0CI4GB-vDcwBfewjU9PlaMry4wo3)
