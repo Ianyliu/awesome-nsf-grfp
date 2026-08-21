@@ -17,11 +17,20 @@
 
 ## 📚 Resources
 
+- [🚀 Start here](#-start-here)
 - [📝 Example proposals & personal statements](#-example-proposals--personal-statements)
 - [💡 Blogs & application advice](#-blogs--application-advice)
 - [🎥 Videos & workshops](#-videos--workshops)
 - [✅ How to use this repository](#-how-to-use-this-repository)
 - [🤝 Contributing](#-contributing)
+
+## 🚀 Start Here
+
+If you are new to the GRFP, a simple workflow is:
+
+**1. Read the current NSF rules → 2. Study several successful examples → 3. Draft around Intellectual Merit and Broader Impacts → 4. Get feedback → 5. Re-check formatting and eligibility before submission.**
+
+This repository is strongest as a **comparative library**: the goal is not to discover one “perfect” essay, but to see how different applicants communicate a coherent research trajectory and future impact.
 
 ## 📝 Example Proposals & Personal Statements
 
