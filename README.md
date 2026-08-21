@@ -18,6 +18,7 @@
 ## 📚 Resources
 
 - [🚀 Start here](#-start-here)
+- [🏛️ Official NSF resources](#️-official-nsf-resources)
 - [📝 Example proposals & personal statements](#-example-proposals--personal-statements)
 - [💡 Blogs & application advice](#-blogs--application-advice)
 - [🎥 Videos & workshops](#-videos--workshops)
@@ -32,6 +33,17 @@ If you are new to the GRFP, a simple workflow is:
 
 This repository is strongest as a **comparative library**: the goal is not to discover one “perfect” essay, but to see how different applicants communicate a coherent research trajectory and future impact.
 
+## 🏛️ Official NSF Resources
+
+Use these first for current rules, eligibility, formatting, and application requirements. Official NSF guidance takes precedence over third-party advice.
+
+- [NSF GRFP Application Resources](https://ww.nsfgrfp.org/applicants/application-resources.html) — application components, templates, and submission resources.
+- [FY26 GRFP Applicant Overview](https://www.nsfgrfp.org/FY26-GRFP-Applicant-Overview.pdf) — current program overview covering eligibility, benefits, review criteria, and application guidance.
+- [NSF GRFP Applicant Tips](https://www.nsfgrfp.org/applicants/tips.html) — official advice on preparing and submitting the application.
+- [NSF GRFP Statements](https://www.nsfgrfp.org/applicants/statements.html) — requirements for the personal statement and graduate research plan.
+- [NSF GRFP Applicant Eligibility](https://www.nsfgrfp.org/applicants/applicant-eligibility.html) — current eligibility criteria and applicant guidance.
+- [NSF 101: The Graduate Research Fellowship Program](https://www.nsf.gov/science-matters/nsf-101-graduate-research-fellowship-program) — NSF program overview and application advice.
+
 ## 📝 Example Proposals & Personal Statements
 
 > Strong examples are most useful for studying **organization, specificity, narrative flow, intellectual merit, broader impacts, and level of technical detail**.
@@ -39,6 +51,8 @@ This repository is strongest as a **comparative library**: the goal is not to di
 | Resource | Type / focus |
 | --- | --- |
 | [NSF GRFP Examples Google Sheet by Alex Lang](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit?gid=0#gid=0&range=A1) | Large collection of example applications |
+| [UC Berkeley Mechanical Engineering — Grant Writing](https://me.berkeley.edu/graduate/grant-writing/) | Successful and honorable-mention NSF applications, including reviewer feedback |
+| [UMass Boston — Student Research / NSF GRFP Samples](https://www.umb.edu/research/campus-research/student-research/) | Sample GRFP materials across several disciplines |
 | [Ecology & Evolutionary Biology Examples](https://github.com/ybrandvain/GRFP?tab=readme-ov-file) | Field-specific examples |
 | [Tara Safavi](https://tsafavi.github.io/assets/pdf/nsf-personal.pdf) | Personal statement |
 | [Alex Matlock](https://drive.google.com/file/d/1g5LxmunG2ZoXDdbJsSEiXtIxgUPLVzp6/view?usp=sharing) | Research statement |
@@ -50,6 +64,7 @@ This repository is strongest as a **comparative library**: the goal is not to di
 
 ### General guides
 
+- [MIT Communication Lab — Graduate Applications Resource Portal](https://mitcommlab.mit.edu/resources/portal-gradapps/)
 - [UIUC NSF Graduate Research Fellowship Program Unofficial Guide Sheet](https://grad.illinois.edu/sites/default/files/pdfs/walkerrobinnsfguidesheets.pdf)
 - [Rachel C. Smith](https://rachelcsmith.com/academics/nsf.htm)
 - [JEFworks Lab](https://jef.works/blog/2017/10/15/NSF-GRFP-application-tips-and-example/)
@@ -61,13 +76,21 @@ This repository is strongest as a **comparative library**: the goal is not to di
 - [Caltech NSF GRFP Resources](https://rosen.caltech.edu/resources/NSF%20GRFP%20resources.pdf)
 - [DJ Strouse — Guide to U.S. science PhD programs and fellowships](https://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships)
 
+### University & applicant perspectives
+
+- [UT Austin Jackson School — 15+ Years of NSF GRFP Awards and Application Advice](https://www.jsg.utexas.edu/science-yall/nsf-graduate-research-fellowship-15-years-of-geoscience-awards-and-application-advice-from-a-panel-of-awardees/) — survey-based lessons from geoscience awardees on preparation, feedback, and application strategy.
+- [University of Arizona — Spotlight on Logan Pearce, NSF GRFP](https://gradcenter.arizona.edu/news/spotlight-logan-pearce-nsf-grfp) — awardee advice on starting early, seeking varied feedback, and learning from successful examples.
+- [Cornell Graduate School — Programs Support NSF GRFP Applicants](https://gradschool.cornell.edu/announcements/programs-support-nsf-grfp-applicants/) — overview of Cornell's applicant-support, peer-review, and successful-application resource model.
+
 ### Research statement
 
+- [MIT/Broad Communication Lab — NSF GRFP Research Proposal](https://mitcommlab.mit.edu/broad/commkit/nsf-research-proposal/) — step-by-step guidance with annotated successful examples.
 - [Claus Wilke — How to write an NSF GRFP research plan](https://blog.genesmindsmachines.com/p/how-to-write-an-nsf-grfp-research)
 - [MIT EECS Communication Lab — NSF GRFP Research Proposal](https://mitcommlab.mit.edu/eecs/commkit/nsf-research-proposal/)
 
 ### Personal statement
 
+- [MIT/Broad Communication Lab — NSF GRFP Personal Statement](https://mitcommlab.mit.edu/broad/commkit/nsf-personal-statement/) — guidance on narrative, evidence, future goals, and broader impacts.
 - [MIT EECS Communication Lab — NSF GRFP Personal Statement](https://mitcommlab.mit.edu/eecs/commkit/nsf-personal-statement/)
 - [How to Write a Strong NSF GRFP Personal Statement](https://www.yaelcourtney.com/resources-and-guides/how-to-write-a-strong-nsf-grfp-personal-statement-advice-from-a-coach-whos-read-hundreds-of-drafts)
 
