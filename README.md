@@ -13,7 +13,11 @@ A collection of example essays and application advice for the National Science F
 ## Example Proposal & Personal Statements
 - [NSF GRFP Examples Google Sheet by Alex Lang](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit?gid=0#gid=0&range=A1)
 - [Ecology & Evolutionary Biology Examples](https://github.com/ybrandvain/GRFP?tab=readme-ov-file)
-- [Tara Safavi](https://tsafavi.github.io/assets/pdf/nsf-personal.pdf)
+- [Tara Safavi (Personal)](https://tsafavi.github.io/assets/pdf/nsf-personal.pdf)
+- [Alex Matlock (Research)](https://drive.google.com/file/d/1g5LxmunG2ZoXDdbJsSEiXtIxgUPLVzp6/view?usp=sharing)
+- [Alex Matlock (Personal)](https://drive.google.com/file/d/1DU-Z7g1zVSMSzJNeVfqUrxpvP7H4SiEO/view?usp=sharing)
+- [James Howe (Research)](https://drive.google.com/file/d/1Vo09uRLg5ihaC9gUEcm8zJRMb_CHnFSz/view?usp=sharing)
+- [James Howe (Personal)](https://drive.google.com/file/d/1F6Pwq62kpqV82SIHbo8GY4rHqnwDRcno/view?usp=sharing)
 
 ## Blogs/Advice
 - [UIUC NSF Graduate Research Fellowship Program Unofficial Guide Sheet](https://grad.illinois.edu/sites/default/files/pdfs/walkerrobinnsfguidesheets.pdf)
