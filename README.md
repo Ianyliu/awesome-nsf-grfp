@@ -76,6 +76,12 @@ Use these first for current rules, eligibility, formatting, and application requ
 - [Caltech NSF GRFP Resources](https://rosen.caltech.edu/resources/NSF%20GRFP%20resources.pdf)
 - [DJ Strouse — Guide to U.S. science PhD programs and fellowships](https://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships)
 
+### University & applicant perspectives
+
+- [UT Austin Jackson School — 15+ Years of NSF GRFP Awards and Application Advice](https://www.jsg.utexas.edu/science-yall/nsf-graduate-research-fellowship-15-years-of-geoscience-awards-and-application-advice-from-a-panel-of-awardees/) — survey-based lessons from geoscience awardees on preparation, feedback, and application strategy.
+- [University of Arizona — Spotlight on Logan Pearce, NSF GRFP](https://gradcenter.arizona.edu/news/spotlight-logan-pearce-nsf-grfp) — awardee advice on starting early, seeking varied feedback, and learning from successful examples.
+- [Cornell Graduate School — Programs Support NSF GRFP Applicants](https://gradschool.cornell.edu/announcements/programs-support-nsf-grfp-applicants/) — overview of Cornell's applicant-support, peer-review, and successful-application resource model.
+
 ### Research statement
 
 - [MIT/Broad Communication Lab — NSF GRFP Research Proposal](https://mitcommlab.mit.edu/broad/commkit/nsf-research-proposal/) — step-by-step guidance with annotated successful examples.
