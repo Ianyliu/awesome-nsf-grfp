@@ -18,6 +18,7 @@
 ## 📚 Resources
 
 - [🚀 Start here](#-start-here)
+- [🏛️ Official NSF resources](#️-official-nsf-resources)
 - [📝 Example proposals & personal statements](#-example-proposals--personal-statements)
 - [💡 Blogs & application advice](#-blogs--application-advice)
 - [🎥 Videos & workshops](#-videos--workshops)
@@ -31,6 +32,17 @@ If you are new to the GRFP, a simple workflow is:
 **1. Read the current NSF rules → 2. Study several successful examples → 3. Draft around Intellectual Merit and Broader Impacts → 4. Get feedback → 5. Re-check formatting and eligibility before submission.**
 
 This repository is strongest as a **comparative library**: the goal is not to discover one “perfect” essay, but to see how different applicants communicate a coherent research trajectory and future impact.
+
+## 🏛️ Official NSF Resources
+
+Use these first for current rules, eligibility, formatting, and application requirements. Official NSF guidance takes precedence over third-party advice.
+
+- [NSF GRFP Application Resources](https://ww.nsfgrfp.org/applicants/application-resources.html) — application components, templates, and submission resources.
+- [FY26 GRFP Applicant Overview](https://www.nsfgrfp.org/FY26-GRFP-Applicant-Overview.pdf) — current program overview covering eligibility, benefits, review criteria, and application guidance.
+- [NSF GRFP Applicant Tips](https://www.nsfgrfp.org/applicants/tips.html) — official advice on preparing and submitting the application.
+- [NSF GRFP Statements](https://www.nsfgrfp.org/applicants/statements.html) — requirements for the personal statement and graduate research plan.
+- [NSF GRFP Applicant Eligibility](https://www.nsfgrfp.org/applicants/applicant-eligibility.html) — current eligibility criteria and applicant guidance.
+- [NSF 101: The Graduate Research Fellowship Program](https://www.nsf.gov/science-matters/nsf-101-graduate-research-fellowship-program) — NSF program overview and application advice.
 
 ## 📝 Example Proposals & Personal Statements
 
