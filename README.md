@@ -51,6 +51,8 @@ Use these first for current rules, eligibility, formatting, and application requ
 | Resource | Type / focus |
 | --- | --- |
 | [NSF GRFP Examples Google Sheet by Alex Lang](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit?gid=0#gid=0&range=A1) | Large collection of example applications |
+| [UC Berkeley Mechanical Engineering — Grant Writing](https://me.berkeley.edu/graduate/grant-writing/) | Successful and honorable-mention NSF applications, including reviewer feedback |
+| [UMass Boston — Student Research / NSF GRFP Samples](https://www.umb.edu/research/campus-research/student-research/) | Sample GRFP materials across several disciplines |
 | [Ecology & Evolutionary Biology Examples](https://github.com/ybrandvain/GRFP?tab=readme-ov-file) | Field-specific examples |
 | [Tara Safavi](https://tsafavi.github.io/assets/pdf/nsf-personal.pdf) | Personal statement |
 | [Alex Matlock](https://drive.google.com/file/d/1g5LxmunG2ZoXDdbJsSEiXtIxgUPLVzp6/view?usp=sharing) | Research statement |
@@ -62,6 +64,7 @@ Use these first for current rules, eligibility, formatting, and application requ
 
 ### General guides
 
+- [MIT Communication Lab — Graduate Applications Resource Portal](https://mitcommlab.mit.edu/resources/portal-gradapps/)
 - [UIUC NSF Graduate Research Fellowship Program Unofficial Guide Sheet](https://grad.illinois.edu/sites/default/files/pdfs/walkerrobinnsfguidesheets.pdf)
 - [Rachel C. Smith](https://rachelcsmith.com/academics/nsf.htm)
 - [JEFworks Lab](https://jef.works/blog/2017/10/15/NSF-GRFP-application-tips-and-example/)
@@ -75,11 +78,13 @@ Use these first for current rules, eligibility, formatting, and application requ
 
 ### Research statement
 
+- [MIT/Broad Communication Lab — NSF GRFP Research Proposal](https://mitcommlab.mit.edu/broad/commkit/nsf-research-proposal/) — step-by-step guidance with annotated successful examples.
 - [Claus Wilke — How to write an NSF GRFP research plan](https://blog.genesmindsmachines.com/p/how-to-write-an-nsf-grfp-research)
 - [MIT EECS Communication Lab — NSF GRFP Research Proposal](https://mitcommlab.mit.edu/eecs/commkit/nsf-research-proposal/)
 
 ### Personal statement
 
+- [MIT/Broad Communication Lab — NSF GRFP Personal Statement](https://mitcommlab.mit.edu/broad/commkit/nsf-personal-statement/) — guidance on narrative, evidence, future goals, and broader impacts.
 - [MIT EECS Communication Lab — NSF GRFP Personal Statement](https://mitcommlab.mit.edu/eecs/commkit/nsf-personal-statement/)
 - [How to Write a Strong NSF GRFP Personal Statement](https://www.yaelcourtney.com/resources-and-guides/how-to-write-a-strong-nsf-grfp-personal-statement-advice-from-a-coach-whos-read-hundreds-of-drafts)
 
