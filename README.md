@@ -51,6 +51,7 @@ Use these first for current rules, eligibility, formatting, and application requ
 | Resource | Type / focus |
 | --- | --- |
 | [NSF GRFP Examples Google Sheet by Alex Lang](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit?gid=0#gid=0&range=A1) | Large collection of example applications |
+| [GRFP Help](https://grfphelp.github.io/) | Recent-cohort example essays shared by GRFP fellows, with application resources and advice |
 | [UC Berkeley Mechanical Engineering — Grant Writing](https://me.berkeley.edu/graduate/grant-writing/) | Successful and honorable-mention NSF applications, including reviewer feedback |
 | [UMass Boston — Student Research / NSF GRFP Samples](https://www.umb.edu/research/campus-research/student-research/) | Sample GRFP materials across several disciplines |
 | [Ecology & Evolutionary Biology Examples](https://github.com/ybrandvain/GRFP?tab=readme-ov-file) | Field-specific examples |
